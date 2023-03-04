@@ -1,8 +1,8 @@
 
-<center>
+<p align="center">
   <img src="/profile/tundra_logo_new.png" alt="your-image" width=256 align="center" />
-  <h1>Tundra Editor</h1>
-</center>
+  <h1 align="center">Tundra Editor</h1>
+</p>
 
 ULTRAKILL's Unity-based Level and Campaign Editor.
 
