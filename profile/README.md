@@ -4,7 +4,7 @@
   <h1 align="center">Tundra Editor</h1>
 </p>
 
-ULTRAKILL's Unity-based Level and Campaign Editor.
+ULTRAKILL's Unity-based Custom Level Editor.
 
 - [View or Report Issues](https://github.com/Tundra-Editor/Issues/issues)
 
@@ -13,6 +13,8 @@ ULTRAKILL's Unity-based Level and Campaign Editor.
 - [Installer](https://github.com/Tundra-Editor/Installer)
 
 - [ULTRAKILL on Steam](http://devilmayquake.com)
+
+- [Steam Workshop](https://steamcommunity.com/app/1229490/workshop/)
 
 ---
 
