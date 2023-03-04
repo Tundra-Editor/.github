@@ -1,6 +1,6 @@
 
 <center>
-  <img src="tundra_logo_new.png" alt="your-image" width=256 align="center" />
+  <img src="/profile/tundra_logo_new.png" alt="your-image" width=256 align="center" />
   <h1>Tundra Editor</h1>
 </center>
 
