@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/Tundra-Editor/.github/raw/main/profile/agony_logo_new.png" alt="Tundra logo big" width=256 align="center" />
+  <img src="https://github.com/Tundra-Editor/.github/raw/main/profile/tundra_logo_new.png" alt="Tundra logo big" width=256 align="center" />
   <h1 align="center">Tundra Editor</h1>
 </p>
 
